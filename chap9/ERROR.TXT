@@ -1,0 +1,1194 @@
+
+Opening Error Output File (ERROR.TXT) on Thu Apr  6 17:27:04.411, 2023
+
+Object Descriptor: slider 21 19
+
+Vertex 0 = -22.500000, 37.500000, -67.500000, 1.000000
+Vertex 1 = 22.500000, 37.500000, -67.500000, 1.000000
+Vertex 2 = 15.000000, 15.000000, 30.000000, 1.000000
+Vertex 3 = -15.000000, 15.000000, 30.000000, 1.000000
+Vertex 4 = -15.000000, 15.000000, -60.000000, 1.000000
+Vertex 5 = 15.000000, 15.000000, -60.000000, 1.000000
+Vertex 6 = -15.000000, 45.000000, -37.500000, 1.000000
+Vertex 7 = 15.000000, 45.000000, -37.500000, 1.000000
+Vertex 8 = -18.750000, 37.500000, -22.500000, 1.000000
+Vertex 9 = 18.750000, 37.500000, -22.500000, 1.000000
+Vertex 10 = -30.000000, 22.500000, -75.000000, 1.000000
+Vertex 11 = -22.500000, 7.500000, 75.000000, 1.000000
+Vertex 12 = -52.500000, 0.000000, -22.500000, 1.000000
+Vertex 13 = -52.500000, 0.000000, -60.000000, 1.000000
+Vertex 14 = 30.000000, 22.500000, -75.000000, 1.000000
+Vertex 15 = 52.500000, 0.000000, -60.000000, 1.000000
+Vertex 16 = 52.500000, 0.000000, -22.500000, 1.000000
+Vertex 17 = 22.500000, 7.500000, 75.000000, 1.000000
+Vertex 18 = 0.000000, 52.500000, -52.500000, 1.000000
+Vertex 19 = 0.000000, 52.500000, 15.000000, 1.000000
+Vertex 20 = 0.000000, 67.500000, -75.000000, 1.000000
+Object average radius = 0.000000, max radius = 0.000000
+Polygon 0:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [1, 9, 2]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 1:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [5, 1, 2]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 2:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [4, 0, 1]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 3:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [5, 4, 1]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 4:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [3, 8, 0]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 5:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [4, 3, 0]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 6:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [8, 3, 2]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 7:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [9, 8, 2]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 8:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [9, 7, 6]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 9:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [8, 9, 6]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 10:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [7, 1, 0]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 11:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [6, 7, 0]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 12:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [8, 6, 0]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 13:
+Surface Desc = 0x2037, num_verts = 3, vert_indices [7, 9, 1]
+1 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 14:
+Surface Desc = 0x3037, num_verts = 3, vert_indices [12, 11, 10]
+2 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 15:
+Surface Desc = 0x3037, num_verts = 3, vert_indices [13, 12, 10]
+2 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 16:
+Surface Desc = 0x3037, num_verts = 3, vert_indices [16, 15, 14]
+2 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 17:
+Surface Desc = 0x3037, num_verts = 3, vert_indices [17, 16, 14]
+2 sided.
+8-bit color index = 55
+Shade mode = flat
+Polygon 18:
+Surface Desc = 0x1037, num_verts = 3, vert_indices [18, 19, 20]
+2 sided.
+8-bit color index = 55
+Shade mode = pure
+processing poly 0
+processing poly 1
+processing poly 2
+processing poly 3
+processing poly 4
+processing poly 5
+processing poly 6
+processing poly 7
+processing poly 8
+processing poly 9
+processing poly 10
+processing poly 11
+processing poly 12
+processing poly 13
+processing poly 14
+processing poly 15
+processing poly 16
+processing poly 17
+processing poly 18
+Processing vertex: 0, attr: 1, contributors: 0
+Processing vertex: 1, attr: 1, contributors: 0
+Processing vertex: 2, attr: 1, contributors: 0
+Processing vertex: 3, attr: 1, contributors: 0
+Processing vertex: 4, attr: 1, contributors: 0
+Processing vertex: 5, attr: 1, contributors: 0
+Processing vertex: 6, attr: 1, contributors: 0
+Processing vertex: 7, attr: 1, contributors: 0
+Processing vertex: 8, attr: 1, contributors: 0
+Processing vertex: 9, attr: 1, contributors: 0
+Processing vertex: 10, attr: 1, contributors: 0
+Processing vertex: 11, attr: 1, contributors: 0
+Processing vertex: 12, attr: 1, contributors: 0
+Processing vertex: 13, attr: 1, contributors: 0
+Processing vertex: 14, attr: 1, contributors: 0
+Processing vertex: 15, attr: 1, contributors: 0
+Processing vertex: 16, attr: 1, contributors: 0
+Processing vertex: 17, attr: 1, contributors: 0
+Processing vertex: 18, attr: 1, contributors: 0
+Processing vertex: 19, attr: 1, contributors: 0
+Processing vertex: 20, attr: 1, contributors: 0
+COB Reader Object Name: Cube2
+Local COB Matrix:=
+0.003552 0.999994 -0.000000 0.000000 
+-0.999994 0.003552 0.000000 0.000000 
+0.000000 -0.000000 1.000000 0.000000 
+0.011728 -0.000667 -0.029096 1.000000 
+
+World COB Matrix:=
+0.000198 -0.224597 -0.000000 0.000000 
+0.223810 0.000795 0.000000 0.000000 
+-0.000000 0.000000 0.414037 0.000000 
+0.000000 0.000000 0.000000 1.000000 
+
+COB Reader Num Vertices: 40
+Vertex 0 = -6.717764, -11.750255, 7.377096, 1.000000
+Vertex 1 = -6.717764, 13.137104, 7.377099, 1.000000
+Vertex 2 = -6.704037, -11.750260, -8.175953, 1.000000
+Vertex 3 = -6.704037, 13.137099, -8.175949, 1.000000
+Vertex 4 = 7.844909, -11.750255, 7.428823, 1.000000
+Vertex 5 = 7.858637, -11.750260, -8.124227, 1.000000
+Vertex 6 = 7.858637, 13.137099, -8.124223, 1.000000
+Vertex 7 = 7.844909, 13.137104, 7.428826, 1.000000
+Vertex 8 = -6.713728, 3.861162, 2.804571, 1.000000
+Vertex 9 = -6.708073, 3.861160, -3.603438, 1.000000
+Vertex 10 = -6.713728, -2.474431, 2.804570, 1.000000
+Vertex 11 = -6.708073, -2.474446, -3.603439, 1.000000
+Vertex 12 = -18.985207, -2.474431, 2.760982, 1.000000
+Vertex 13 = -18.985207, 3.861162, 2.760983, 1.000000
+Vertex 14 = -18.979551, -2.474446, -3.647027, 1.000000
+Vertex 15 = -18.979551, 3.861160, -3.647019, 1.000000
+Vertex 16 = 7.849007, 3.891362, 2.785342, 1.000000
+Vertex 17 = 7.854538, 3.891360, -3.480762, 1.000000
+Vertex 18 = 7.849007, -2.504516, 2.785341, 1.000000
+Vertex 19 = 7.854538, -2.504518, -3.480763, 1.000000
+Vertex 20 = -22.099667, -45.148201, 27.546993, 1.000000
+Vertex 21 = -22.099667, 45.148239, 27.547014, 1.000000
+Vertex 22 = -22.050888, -45.148239, -27.703827, 1.000000
+Vertex 23 = -22.050888, 45.148201, -27.703802, 1.000000
+Vertex 24 = -19.348482, -45.148201, 27.556759, 1.000000
+Vertex 25 = -19.299711, -45.148239, -27.694056, 1.000000
+Vertex 26 = -19.299711, 45.148201, -27.694031, 1.000000
+Vertex 27 = -19.348482, 45.148239, 27.556784, 1.000000
+Vertex 28 = 19.321659, 3.891362, 2.826093, 1.000000
+Vertex 29 = 19.327190, 3.891360, -3.440012, 1.000000
+Vertex 30 = 19.321659, -2.504516, 2.826092, 1.000000
+Vertex 31 = 19.327190, -2.504518, -3.440018, 1.000000
+Vertex 32 = 19.299711, -45.148201, 27.694031, 1.000000
+Vertex 33 = 19.299711, 45.148239, 27.694056, 1.000000
+Vertex 34 = 19.348482, -45.148239, -27.556784, 1.000000
+Vertex 35 = 19.348482, 45.148201, -27.556759, 1.000000
+Vertex 36 = 22.050888, -45.148201, 27.703802, 1.000000
+Vertex 37 = 22.099667, -45.148239, -27.547014, 1.000000
+Vertex 38 = 22.099667, 45.148201, -27.546993, 1.000000
+Vertex 39 = 22.050888, 45.148239, 27.703827, 1.000000
+Object average radius = 0.000000, max radius = 0.000000
+COB Reader Texture Vertices: 115
+Texture Vertex 0: U=0.000000, V=0.000000
+Texture Vertex 1: U=0.000000, V=0.000001
+Texture Vertex 2: U=0.000000, V=0.999999
+Texture Vertex 3: U=0.000000, V=1.000000
+Texture Vertex 4: U=0.000000, V=0.065435
+Texture Vertex 5: U=0.000000, V=0.000000
+Texture Vertex 6: U=0.000000, V=0.003329
+Texture Vertex 7: U=0.000000, V=1.000000
+Texture Vertex 8: U=0.000000, V=0.000000
+Texture Vertex 9: U=0.000000, V=0.937894
+Texture Vertex 10: U=0.000000, V=1.000000
+Texture Vertex 11: U=0.000000, V=0.000001
+Texture Vertex 12: U=0.000000, V=0.996671
+Texture Vertex 13: U=0.000000, V=0.999999
+Texture Vertex 14: U=0.000000, V=0.934565
+Texture Vertex 15: U=0.000000, V=0.000000
+Texture Vertex 16: U=0.000000, V=0.000001
+Texture Vertex 17: U=0.000000, V=0.062106
+Texture Vertex 18: U=0.000000, V=0.999999
+Texture Vertex 19: U=0.062106, V=0.000000
+Texture Vertex 20: U=0.062106, V=0.000001
+Texture Vertex 21: U=0.062106, V=0.999999
+Texture Vertex 22: U=0.062106, V=1.000000
+Texture Vertex 23: U=0.063605, V=0.472263
+Texture Vertex 24: U=0.063605, V=0.543095
+Texture Vertex 25: U=0.071261, V=0.472596
+Texture Vertex 26: U=0.071261, V=0.542761
+Texture Vertex 27: U=0.322313, V=0.369870
+Texture Vertex 28: U=0.322313, V=0.645489
+Texture Vertex 29: U=0.322592, V=0.472263
+Texture Vertex 30: U=0.322592, V=0.543095
+Texture Vertex 31: U=0.348007, V=0.369870
+Texture Vertex 32: U=0.348007, V=0.645489
+Texture Vertex 33: U=0.348282, V=0.472596
+Texture Vertex 34: U=0.348282, V=0.542761
+Texture Vertex 35: U=0.352453, V=0.369870
+Texture Vertex 36: U=0.352453, V=0.645489
+Texture Vertex 37: U=0.366048, V=0.322313
+Texture Vertex 38: U=0.366048, V=0.677687
+Texture Vertex 39: U=0.366048, V=0.348944
+Texture Vertex 40: U=0.366048, V=0.369870
+Texture Vertex 41: U=0.366048, V=0.645489
+Texture Vertex 42: U=0.366048, V=0.651056
+Texture Vertex 43: U=0.436496, V=0.472263
+Texture Vertex 44: U=0.436496, V=0.543095
+Texture Vertex 45: U=0.448808, V=0.071648
+Texture Vertex 46: U=0.448808, V=0.348669
+Texture Vertex 47: U=0.448808, V=0.472597
+Texture Vertex 48: U=0.448808, V=0.542761
+Texture Vertex 49: U=0.448808, V=0.651331
+Texture Vertex 50: U=0.448808, V=0.928352
+Texture Vertex 51: U=0.450092, V=0.063605
+Texture Vertex 52: U=0.450092, V=0.322592
+Texture Vertex 53: U=0.450092, V=0.472263
+Texture Vertex 54: U=0.450092, V=0.543095
+Texture Vertex 55: U=0.450092, V=0.677408
+Texture Vertex 56: U=0.450092, V=0.936395
+Texture Vertex 57: U=0.549908, V=0.472263
+Texture Vertex 58: U=0.549908, V=0.543095
+Texture Vertex 59: U=0.563504, V=0.543095
+Texture Vertex 60: U=0.563504, V=0.936018
+Texture Vertex 61: U=0.563504, V=0.322970
+Texture Vertex 62: U=0.563504, V=0.677030
+Texture Vertex 63: U=0.563504, V=0.063982
+Texture Vertex 64: U=0.563504, V=0.472263
+Texture Vertex 65: U=0.564788, V=0.071261
+Texture Vertex 66: U=0.564788, V=0.542761
+Texture Vertex 67: U=0.564788, V=0.348282
+Texture Vertex 68: U=0.564788, V=0.472596
+Texture Vertex 69: U=0.564788, V=0.542761
+Texture Vertex 70: U=0.564788, V=0.651718
+Texture Vertex 71: U=0.564788, V=0.928739
+Texture Vertex 72: U=0.633952, V=0.369870
+Texture Vertex 73: U=0.633952, V=0.645489
+Texture Vertex 74: U=0.647547, V=0.323250
+Texture Vertex 75: U=0.647547, V=0.348007
+Texture Vertex 76: U=0.647547, V=0.645489
+Texture Vertex 77: U=0.647547, V=0.676750
+Texture Vertex 78: U=0.647547, V=0.369870
+Texture Vertex 79: U=0.647547, V=0.651993
+Texture Vertex 80: U=0.651056, V=0.369870
+Texture Vertex 81: U=0.651056, V=0.645489
+Texture Vertex 82: U=0.651331, V=0.472597
+Texture Vertex 83: U=0.651331, V=0.542761
+Texture Vertex 84: U=0.676750, V=0.369870
+Texture Vertex 85: U=0.676750, V=0.645489
+Texture Vertex 86: U=0.677030, V=0.472263
+Texture Vertex 87: U=0.677030, V=0.543095
+Texture Vertex 88: U=0.928352, V=0.472597
+Texture Vertex 89: U=0.928352, V=0.542761
+Texture Vertex 90: U=0.934565, V=0.000000
+Texture Vertex 91: U=0.934565, V=0.000001
+Texture Vertex 92: U=0.934565, V=0.999999
+Texture Vertex 93: U=0.934565, V=1.000000
+Texture Vertex 94: U=0.936018, V=0.472263
+Texture Vertex 95: U=0.936018, V=0.543095
+Texture Vertex 96: U=0.996671, V=0.000000
+Texture Vertex 97: U=0.996671, V=0.000001
+Texture Vertex 98: U=0.996671, V=0.999999
+Texture Vertex 99: U=0.996671, V=1.000000
+Texture Vertex 100: U=1.000000, V=0.000000
+Texture Vertex 101: U=1.000000, V=0.000001
+Texture Vertex 102: U=1.000000, V=0.062106
+Texture Vertex 103: U=1.000000, V=0.999999
+Texture Vertex 104: U=1.000000, V=0.000001
+Texture Vertex 105: U=1.000000, V=0.934565
+Texture Vertex 106: U=1.000000, V=0.999999
+Texture Vertex 107: U=1.000000, V=0.996671
+Texture Vertex 108: U=1.000000, V=0.000000
+Texture Vertex 109: U=1.000000, V=0.937894
+Texture Vertex 110: U=1.000000, V=1.000000
+Texture Vertex 111: U=1.000000, V=0.000000
+Texture Vertex 112: U=1.000000, V=0.003329
+Texture Vertex 113: U=1.000000, V=0.065435
+Texture Vertex 114: U=1.000000, V=1.000000
+COB Reader found face list in .COB file tie02_256.cob.
+Polygon 0:
+Assigning texture vertex index 47 [0.448808, 0.472597] to mesh vertex 10
+Assigning texture vertex index 68 [0.564788, 0.472596] to mesh vertex 11
+Assigning texture vertex index 78 [0.647547, 0.369870] to mesh vertex 2
+Local material Index=0, total materials for object = 1, vert_indices [10, 11, 2]
+Polygon 1:
+Assigning texture vertex index 47 [0.448808, 0.472597] to mesh vertex 10
+Assigning texture vertex index 78 [0.647547, 0.369870] to mesh vertex 2
+Assigning texture vertex index 40 [0.366048, 0.369870] to mesh vertex 0
+Local material Index=0, total materials for object = 1, vert_indices [10, 2, 0]
+Polygon 2:
+Assigning texture vertex index 48 [0.448808, 0.542761] to mesh vertex 8
+Assigning texture vertex index 47 [0.448808, 0.472597] to mesh vertex 10
+Assigning texture vertex index 40 [0.366048, 0.369870] to mesh vertex 0
+Local material Index=0, total materials for object = 1, vert_indices [8, 10, 0]
+Polygon 3:
+Assigning texture vertex index 48 [0.448808, 0.542761] to mesh vertex 8
+Assigning texture vertex index 40 [0.366048, 0.369870] to mesh vertex 0
+Assigning texture vertex index 41 [0.366048, 0.645489] to mesh vertex 1
+Local material Index=0, total materials for object = 1, vert_indices [8, 0, 1]
+Polygon 4:
+Assigning texture vertex index 48 [0.448808, 0.542761] to mesh vertex 8
+Assigning texture vertex index 41 [0.366048, 0.645489] to mesh vertex 1
+Assigning texture vertex index 76 [0.647547, 0.645489] to mesh vertex 3
+Local material Index=0, total materials for object = 1, vert_indices [8, 1, 3]
+Polygon 5:
+Assigning texture vertex index 69 [0.564788, 0.542761] to mesh vertex 9
+Assigning texture vertex index 48 [0.448808, 0.542761] to mesh vertex 8
+Assigning texture vertex index 76 [0.647547, 0.645489] to mesh vertex 3
+Local material Index=0, total materials for object = 1, vert_indices [9, 8, 3]
+Polygon 6:
+Assigning texture vertex index 69 [0.564788, 0.542761] to mesh vertex 9
+Assigning texture vertex index 76 [0.647547, 0.645489] to mesh vertex 3
+Assigning texture vertex index 78 [0.647547, 0.369870] to mesh vertex 2
+Local material Index=0, total materials for object = 1, vert_indices [9, 3, 2]
+Polygon 7:
+Assigning texture vertex index 69 [0.564788, 0.542761] to mesh vertex 9
+Assigning texture vertex index 78 [0.647547, 0.369870] to mesh vertex 2
+Assigning texture vertex index 68 [0.564788, 0.472596] to mesh vertex 11
+Local material Index=0, total materials for object = 1, vert_indices [9, 2, 11]
+Polygon 8:
+Assigning texture vertex index 42 [0.366048, 0.651056] to mesh vertex 0
+Assigning texture vertex index 79 [0.647547, 0.651993] to mesh vertex 2
+Assigning texture vertex index 74 [0.647547, 0.323250] to mesh vertex 5
+Local material Index=0, total materials for object = 1, vert_indices [0, 2, 5]
+Polygon 9:
+Assigning texture vertex index 42 [0.366048, 0.651056] to mesh vertex 0
+Assigning texture vertex index 74 [0.647547, 0.323250] to mesh vertex 5
+Assigning texture vertex index 37 [0.366048, 0.322313] to mesh vertex 4
+Local material Index=0, total materials for object = 1, vert_indices [0, 5, 4]
+Polygon 10:
+Assigning texture vertex index 31 [0.348007, 0.369870] to mesh vertex 2
+Assigning texture vertex index 32 [0.348007, 0.645489] to mesh vertex 3
+Assigning texture vertex index 85 [0.676750, 0.645489] to mesh vertex 6
+Local material Index=0, total materials for object = 1, vert_indices [2, 3, 6]
+Polygon 11:
+Assigning texture vertex index 31 [0.348007, 0.369870] to mesh vertex 2
+Assigning texture vertex index 85 [0.676750, 0.645489] to mesh vertex 6
+Assigning texture vertex index 84 [0.676750, 0.369870] to mesh vertex 5
+Local material Index=0, total materials for object = 1, vert_indices [2, 6, 5]
+Polygon 12:
+Assigning texture vertex index 39 [0.366048, 0.348944] to mesh vertex 1
+Assigning texture vertex index 38 [0.366048, 0.677687] to mesh vertex 7
+Assigning texture vertex index 77 [0.647547, 0.676750] to mesh vertex 6
+Local material Index=0, total materials for object = 1, vert_indices [1, 7, 6]
+Polygon 13:
+Assigning texture vertex index 39 [0.366048, 0.348944] to mesh vertex 1
+Assigning texture vertex index 77 [0.647547, 0.676750] to mesh vertex 6
+Assigning texture vertex index 75 [0.647547, 0.348007] to mesh vertex 3
+Local material Index=0, total materials for object = 1, vert_indices [1, 6, 3]
+Polygon 14:
+Assigning texture vertex index 43 [0.436496, 0.472263] to mesh vertex 19
+Assigning texture vertex index 35 [0.352453, 0.369870] to mesh vertex 5
+Assigning texture vertex index 36 [0.352453, 0.645489] to mesh vertex 6
+Local material Index=0, total materials for object = 1, vert_indices [19, 5, 6]
+Polygon 15:
+Assigning texture vertex index 35 [0.352453, 0.369870] to mesh vertex 5
+Assigning texture vertex index 43 [0.436496, 0.472263] to mesh vertex 19
+Assigning texture vertex index 57 [0.549908, 0.472263] to mesh vertex 18
+Local material Index=0, total materials for object = 1, vert_indices [5, 19, 18]
+Polygon 16:
+Assigning texture vertex index 72 [0.633952, 0.369870] to mesh vertex 4
+Assigning texture vertex index 35 [0.352453, 0.369870] to mesh vertex 5
+Assigning texture vertex index 57 [0.549908, 0.472263] to mesh vertex 18
+Local material Index=0, total materials for object = 1, vert_indices [4, 5, 18]
+Polygon 17:
+Assigning texture vertex index 72 [0.633952, 0.369870] to mesh vertex 4
+Assigning texture vertex index 57 [0.549908, 0.472263] to mesh vertex 18
+Assigning texture vertex index 58 [0.549908, 0.543095] to mesh vertex 16
+Local material Index=0, total materials for object = 1, vert_indices [4, 18, 16]
+Polygon 18:
+Assigning texture vertex index 73 [0.633952, 0.645489] to mesh vertex 7
+Assigning texture vertex index 72 [0.633952, 0.369870] to mesh vertex 4
+Assigning texture vertex index 58 [0.549908, 0.543095] to mesh vertex 16
+Local material Index=0, total materials for object = 1, vert_indices [7, 4, 16]
+Polygon 19:
+Assigning texture vertex index 36 [0.352453, 0.645489] to mesh vertex 6
+Assigning texture vertex index 73 [0.633952, 0.645489] to mesh vertex 7
+Assigning texture vertex index 58 [0.549908, 0.543095] to mesh vertex 16
+Local material Index=0, total materials for object = 1, vert_indices [6, 7, 16]
+Polygon 20:
+Assigning texture vertex index 36 [0.352453, 0.645489] to mesh vertex 6
+Assigning texture vertex index 58 [0.549908, 0.543095] to mesh vertex 16
+Assigning texture vertex index 44 [0.436496, 0.543095] to mesh vertex 17
+Local material Index=0, total materials for object = 1, vert_indices [6, 16, 17]
+Polygon 21:
+Assigning texture vertex index 36 [0.352453, 0.645489] to mesh vertex 6
+Assigning texture vertex index 44 [0.436496, 0.543095] to mesh vertex 17
+Assigning texture vertex index 43 [0.436496, 0.472263] to mesh vertex 19
+Local material Index=0, total materials for object = 1, vert_indices [6, 17, 19]
+Polygon 22:
+Assigning texture vertex index 80 [0.651056, 0.369870] to mesh vertex 0
+Assigning texture vertex index 27 [0.322313, 0.369870] to mesh vertex 4
+Assigning texture vertex index 28 [0.322313, 0.645489] to mesh vertex 7
+Local material Index=0, total materials for object = 1, vert_indices [0, 4, 7]
+Polygon 23:
+Assigning texture vertex index 80 [0.651056, 0.369870] to mesh vertex 0
+Assigning texture vertex index 28 [0.322313, 0.645489] to mesh vertex 7
+Assigning texture vertex index 81 [0.651056, 0.645489] to mesh vertex 1
+Local material Index=0, total materials for object = 1, vert_indices [0, 7, 1]
+Polygon 24:
+Assigning texture vertex index 66 [0.564788, 0.542761] to mesh vertex 15
+Assigning texture vertex index 68 [0.564788, 0.472596] to mesh vertex 14
+Assigning texture vertex index 47 [0.448808, 0.472597] to mesh vertex 12
+Local material Index=0, total materials for object = 1, vert_indices [15, 14, 12]
+Polygon 25:
+Assigning texture vertex index 66 [0.564788, 0.542761] to mesh vertex 15
+Assigning texture vertex index 47 [0.448808, 0.472597] to mesh vertex 12
+Assigning texture vertex index 48 [0.448808, 0.542761] to mesh vertex 13
+Local material Index=0, total materials for object = 1, vert_indices [15, 12, 13]
+Polygon 26:
+Assigning texture vertex index 25 [0.071261, 0.472596] to mesh vertex 14
+Assigning texture vertex index 26 [0.071261, 0.542761] to mesh vertex 15
+Assigning texture vertex index 34 [0.348282, 0.542761] to mesh vertex 9
+Local material Index=0, total materials for object = 1, vert_indices [14, 15, 9]
+Polygon 27:
+Assigning texture vertex index 25 [0.071261, 0.472596] to mesh vertex 14
+Assigning texture vertex index 34 [0.348282, 0.542761] to mesh vertex 9
+Assigning texture vertex index 33 [0.348282, 0.472596] to mesh vertex 11
+Local material Index=0, total materials for object = 1, vert_indices [14, 9, 11]
+Polygon 28:
+Assigning texture vertex index 49 [0.448808, 0.651331] to mesh vertex 10
+Assigning texture vertex index 50 [0.448808, 0.928352] to mesh vertex 12
+Assigning texture vertex index 71 [0.564788, 0.928739] to mesh vertex 14
+Local material Index=0, total materials for object = 1, vert_indices [10, 12, 14]
+Polygon 29:
+Assigning texture vertex index 49 [0.448808, 0.651331] to mesh vertex 10
+Assigning texture vertex index 71 [0.564788, 0.928739] to mesh vertex 14
+Assigning texture vertex index 70 [0.564788, 0.651718] to mesh vertex 11
+Local material Index=0, total materials for object = 1, vert_indices [10, 14, 11]
+Polygon 30:
+Assigning texture vertex index 65 [0.564788, 0.071261] to mesh vertex 15
+Assigning texture vertex index 45 [0.448808, 0.071648] to mesh vertex 13
+Assigning texture vertex index 46 [0.448808, 0.348669] to mesh vertex 8
+Local material Index=0, total materials for object = 1, vert_indices [15, 13, 8]
+Polygon 31:
+Assigning texture vertex index 65 [0.564788, 0.071261] to mesh vertex 15
+Assigning texture vertex index 46 [0.448808, 0.348669] to mesh vertex 8
+Assigning texture vertex index 67 [0.564788, 0.348282] to mesh vertex 9
+Local material Index=0, total materials for object = 1, vert_indices [15, 8, 9]
+Polygon 32:
+Assigning texture vertex index 88 [0.928352, 0.472597] to mesh vertex 12
+Assigning texture vertex index 82 [0.651331, 0.472597] to mesh vertex 10
+Assigning texture vertex index 83 [0.651331, 0.542761] to mesh vertex 8
+Local material Index=0, total materials for object = 1, vert_indices [12, 10, 8]
+Polygon 33:
+Assigning texture vertex index 88 [0.928352, 0.472597] to mesh vertex 12
+Assigning texture vertex index 83 [0.651331, 0.542761] to mesh vertex 8
+Assigning texture vertex index 89 [0.928352, 0.542761] to mesh vertex 13
+Local material Index=0, total materials for object = 1, vert_indices [12, 8, 13]
+Polygon 34:
+Assigning texture vertex index 61 [0.563504, 0.322970] to mesh vertex 19
+Assigning texture vertex index 63 [0.563504, 0.063982] to mesh vertex 31
+Assigning texture vertex index 51 [0.450092, 0.063605] to mesh vertex 30
+Local material Index=0, total materials for object = 1, vert_indices [19, 31, 30]
+Polygon 35:
+Assigning texture vertex index 61 [0.563504, 0.322970] to mesh vertex 19
+Assigning texture vertex index 51 [0.450092, 0.063605] to mesh vertex 30
+Assigning texture vertex index 52 [0.450092, 0.322592] to mesh vertex 18
+Local material Index=0, total materials for object = 1, vert_indices [19, 30, 18]
+Polygon 36:
+Assigning texture vertex index 24 [0.063605, 0.543095] to mesh vertex 28
+Assigning texture vertex index 30 [0.322592, 0.543095] to mesh vertex 16
+Assigning texture vertex index 29 [0.322592, 0.472263] to mesh vertex 18
+Local material Index=0, total materials for object = 1, vert_indices [28, 16, 18]
+Polygon 37:
+Assigning texture vertex index 24 [0.063605, 0.543095] to mesh vertex 28
+Assigning texture vertex index 29 [0.322592, 0.472263] to mesh vertex 18
+Assigning texture vertex index 23 [0.063605, 0.472263] to mesh vertex 30
+Local material Index=0, total materials for object = 1, vert_indices [28, 18, 30]
+Polygon 38:
+Assigning texture vertex index 11 [0.000000, 0.000001] to mesh vertex 20
+Assigning texture vertex index 7 [0.000000, 1.000000] to mesh vertex 21
+Assigning texture vertex index 103 [1.000000, 0.999999] to mesh vertex 23
+Local material Index=0, total materials for object = 1, vert_indices [20, 21, 23]
+Polygon 39:
+Assigning texture vertex index 11 [0.000000, 0.000001] to mesh vertex 20
+Assigning texture vertex index 103 [1.000000, 0.999999] to mesh vertex 23
+Assigning texture vertex index 108 [1.000000, 0.000000] to mesh vertex 22
+Local material Index=0, total materials for object = 1, vert_indices [20, 23, 22]
+Polygon 40:
+Assigning texture vertex index 110 [1.000000, 1.000000] to mesh vertex 22
+Assigning texture vertex index 109 [1.000000, 0.937894] to mesh vertex 25
+Assigning texture vertex index 14 [0.000000, 0.934565] to mesh vertex 24
+Local material Index=0, total materials for object = 1, vert_indices [22, 25, 24]
+Polygon 41:
+Assigning texture vertex index 110 [1.000000, 1.000000] to mesh vertex 22
+Assigning texture vertex index 14 [0.000000, 0.934565] to mesh vertex 24
+Assigning texture vertex index 12 [0.000000, 0.996671] to mesh vertex 20
+Local material Index=0, total materials for object = 1, vert_indices [22, 24, 20]
+Polygon 42:
+Assigning texture vertex index 21 [0.062106, 0.999999] to mesh vertex 26
+Assigning texture vertex index 19 [0.062106, 0.000000] to mesh vertex 25
+Assigning texture vertex index 0 [0.000000, 0.000000] to mesh vertex 22
+Local material Index=0, total materials for object = 1, vert_indices [26, 25, 22]
+Polygon 43:
+Assigning texture vertex index 21 [0.062106, 0.999999] to mesh vertex 26
+Assigning texture vertex index 0 [0.000000, 0.000000] to mesh vertex 22
+Assigning texture vertex index 2 [0.000000, 0.999999] to mesh vertex 23
+Local material Index=0, total materials for object = 1, vert_indices [26, 22, 23]
+Polygon 44:
+Assigning texture vertex index 62 [0.563504, 0.677030] to mesh vertex 17
+Assigning texture vertex index 55 [0.450092, 0.677408] to mesh vertex 16
+Assigning texture vertex index 56 [0.450092, 0.936395] to mesh vertex 28
+Local material Index=0, total materials for object = 1, vert_indices [17, 16, 28]
+Polygon 45:
+Assigning texture vertex index 62 [0.563504, 0.677030] to mesh vertex 17
+Assigning texture vertex index 56 [0.450092, 0.936395] to mesh vertex 28
+Assigning texture vertex index 60 [0.563504, 0.936018] to mesh vertex 29
+Local material Index=0, total materials for object = 1, vert_indices [17, 28, 29]
+Polygon 46:
+Assigning texture vertex index 4 [0.000000, 0.065435] to mesh vertex 27
+Assigning texture vertex index 102 [1.000000, 0.062106] to mesh vertex 26
+Assigning texture vertex index 100 [1.000000, 0.000000] to mesh vertex 23
+Local material Index=0, total materials for object = 1, vert_indices [27, 26, 23]
+Polygon 47:
+Assigning texture vertex index 4 [0.000000, 0.065435] to mesh vertex 27
+Assigning texture vertex index 100 [1.000000, 0.000000] to mesh vertex 23
+Assigning texture vertex index 6 [0.000000, 0.003329] to mesh vertex 21
+Local material Index=0, total materials for object = 1, vert_indices [27, 23, 21]
+Polygon 48:
+Assigning texture vertex index 95 [0.936018, 0.543095] to mesh vertex 29
+Assigning texture vertex index 94 [0.936018, 0.472263] to mesh vertex 31
+Assigning texture vertex index 86 [0.677030, 0.472263] to mesh vertex 19
+Local material Index=0, total materials for object = 1, vert_indices [29, 31, 19]
+Polygon 49:
+Assigning texture vertex index 95 [0.936018, 0.543095] to mesh vertex 29
+Assigning texture vertex index 86 [0.677030, 0.472263] to mesh vertex 19
+Assigning texture vertex index 87 [0.677030, 0.543095] to mesh vertex 17
+Local material Index=0, total materials for object = 1, vert_indices [29, 19, 17]
+Polygon 50:
+Assigning texture vertex index 18 [0.000000, 0.999999] to mesh vertex 26
+Assigning texture vertex index 114 [1.000000, 1.000000] to mesh vertex 27
+Assigning texture vertex index 104 [1.000000, 0.000001] to mesh vertex 24
+Local material Index=0, total materials for object = 1, vert_indices [26, 27, 24]
+Polygon 51:
+Assigning texture vertex index 18 [0.000000, 0.999999] to mesh vertex 26
+Assigning texture vertex index 104 [1.000000, 0.000001] to mesh vertex 24
+Assigning texture vertex index 8 [0.000000, 0.000000] to mesh vertex 25
+Local material Index=0, total materials for object = 1, vert_indices [26, 24, 25]
+Polygon 52:
+Assigning texture vertex index 97 [0.996671, 0.000001] to mesh vertex 20
+Assigning texture vertex index 91 [0.934565, 0.000001] to mesh vertex 24
+Assigning texture vertex index 93 [0.934565, 1.000000] to mesh vertex 27
+Local material Index=0, total materials for object = 1, vert_indices [20, 24, 27]
+Polygon 53:
+Assigning texture vertex index 97 [0.996671, 0.000001] to mesh vertex 20
+Assigning texture vertex index 93 [0.934565, 1.000000] to mesh vertex 27
+Assigning texture vertex index 99 [0.996671, 1.000000] to mesh vertex 21
+Local material Index=0, total materials for object = 1, vert_indices [20, 27, 21]
+Polygon 54:
+Assigning texture vertex index 106 [1.000000, 0.999999] to mesh vertex 35
+Assigning texture vertex index 111 [1.000000, 0.000000] to mesh vertex 34
+Assigning texture vertex index 64 [0.563504, 0.472263] to mesh vertex 31
+Local material Index=0, total materials for object = 1, vert_indices [35, 34, 31]
+Polygon 55:
+Assigning texture vertex index 53 [0.450092, 0.472263] to mesh vertex 30
+Assigning texture vertex index 64 [0.563504, 0.472263] to mesh vertex 31
+Assigning texture vertex index 111 [1.000000, 0.000000] to mesh vertex 34
+Local material Index=0, total materials for object = 1, vert_indices [30, 31, 34]
+Polygon 56:
+Assigning texture vertex index 53 [0.450092, 0.472263] to mesh vertex 30
+Assigning texture vertex index 111 [1.000000, 0.000000] to mesh vertex 34
+Assigning texture vertex index 16 [0.000000, 0.000001] to mesh vertex 32
+Local material Index=0, total materials for object = 1, vert_indices [30, 34, 32]
+Polygon 57:
+Assigning texture vertex index 53 [0.450092, 0.472263] to mesh vertex 30
+Assigning texture vertex index 16 [0.000000, 0.000001] to mesh vertex 32
+Assigning texture vertex index 10 [0.000000, 1.000000] to mesh vertex 33
+Local material Index=0, total materials for object = 1, vert_indices [30, 32, 33]
+Polygon 58:
+Assigning texture vertex index 54 [0.450092, 0.543095] to mesh vertex 28
+Assigning texture vertex index 53 [0.450092, 0.472263] to mesh vertex 30
+Assigning texture vertex index 10 [0.000000, 1.000000] to mesh vertex 33
+Local material Index=0, total materials for object = 1, vert_indices [28, 30, 33]
+Polygon 59:
+Assigning texture vertex index 54 [0.450092, 0.543095] to mesh vertex 28
+Assigning texture vertex index 10 [0.000000, 1.000000] to mesh vertex 33
+Assigning texture vertex index 106 [1.000000, 0.999999] to mesh vertex 35
+Local material Index=0, total materials for object = 1, vert_indices [28, 33, 35]
+Polygon 60:
+Assigning texture vertex index 59 [0.563504, 0.543095] to mesh vertex 29
+Assigning texture vertex index 54 [0.450092, 0.543095] to mesh vertex 28
+Assigning texture vertex index 106 [1.000000, 0.999999] to mesh vertex 35
+Local material Index=0, total materials for object = 1, vert_indices [29, 28, 35]
+Polygon 61:
+Assigning texture vertex index 59 [0.563504, 0.543095] to mesh vertex 29
+Assigning texture vertex index 106 [1.000000, 0.999999] to mesh vertex 35
+Assigning texture vertex index 64 [0.563504, 0.472263] to mesh vertex 31
+Local material Index=0, total materials for object = 1, vert_indices [29, 35, 31]
+Polygon 62:
+Assigning texture vertex index 113 [1.000000, 0.065435] to mesh vertex 34
+Assigning texture vertex index 112 [1.000000, 0.003329] to mesh vertex 37
+Assigning texture vertex index 15 [0.000000, 0.000000] to mesh vertex 36
+Local material Index=0, total materials for object = 1, vert_indices [34, 37, 36]
+Polygon 63:
+Assigning texture vertex index 113 [1.000000, 0.065435] to mesh vertex 34
+Assigning texture vertex index 15 [0.000000, 0.000000] to mesh vertex 36
+Assigning texture vertex index 17 [0.000000, 0.062106] to mesh vertex 32
+Local material Index=0, total materials for object = 1, vert_indices [34, 36, 32]
+Polygon 64:
+Assigning texture vertex index 90 [0.934565, 0.000000] to mesh vertex 34
+Assigning texture vertex index 92 [0.934565, 0.999999] to mesh vertex 35
+Assigning texture vertex index 98 [0.996671, 0.999999] to mesh vertex 38
+Local material Index=0, total materials for object = 1, vert_indices [34, 35, 38]
+Polygon 65:
+Assigning texture vertex index 90 [0.934565, 0.000000] to mesh vertex 34
+Assigning texture vertex index 98 [0.996671, 0.999999] to mesh vertex 38
+Assigning texture vertex index 96 [0.996671, 0.000000] to mesh vertex 37
+Local material Index=0, total materials for object = 1, vert_indices [34, 38, 37]
+Polygon 66:
+Assigning texture vertex index 105 [1.000000, 0.934565] to mesh vertex 35
+Assigning texture vertex index 9 [0.000000, 0.937894] to mesh vertex 33
+Assigning texture vertex index 10 [0.000000, 1.000000] to mesh vertex 39
+Local material Index=0, total materials for object = 1, vert_indices [35, 33, 39]
+Polygon 67:
+Assigning texture vertex index 105 [1.000000, 0.934565] to mesh vertex 35
+Assigning texture vertex index 10 [0.000000, 1.000000] to mesh vertex 39
+Assigning texture vertex index 107 [1.000000, 0.996671] to mesh vertex 38
+Local material Index=0, total materials for object = 1, vert_indices [35, 39, 38]
+Polygon 68:
+Assigning texture vertex index 13 [0.000000, 0.999999] to mesh vertex 38
+Assigning texture vertex index 110 [1.000000, 1.000000] to mesh vertex 39
+Assigning texture vertex index 101 [1.000000, 0.000001] to mesh vertex 36
+Local material Index=0, total materials for object = 1, vert_indices [38, 39, 36]
+Polygon 69:
+Assigning texture vertex index 13 [0.000000, 0.999999] to mesh vertex 38
+Assigning texture vertex index 101 [1.000000, 0.000001] to mesh vertex 36
+Assigning texture vertex index 5 [0.000000, 0.000000] to mesh vertex 37
+Local material Index=0, total materials for object = 1, vert_indices [38, 36, 37]
+Polygon 70:
+Assigning texture vertex index 3 [0.000000, 1.000000] to mesh vertex 39
+Assigning texture vertex index 22 [0.062106, 1.000000] to mesh vertex 33
+Assigning texture vertex index 20 [0.062106, 0.000001] to mesh vertex 32
+Local material Index=0, total materials for object = 1, vert_indices [39, 33, 32]
+Polygon 71:
+Assigning texture vertex index 3 [0.000000, 1.000000] to mesh vertex 39
+Assigning texture vertex index 20 [0.062106, 0.000001] to mesh vertex 32
+Assigning texture vertex index 1 [0.000000, 0.000001] to mesh vertex 36
+Local material Index=0, total materials for object = 1, vert_indices [39, 32, 36]
+fixing poly material 0 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 1 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 2 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 3 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 4 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 5 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 6 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 7 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 8 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 9 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 10 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 11 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 12 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 13 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 14 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 15 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 16 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 17 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 18 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 19 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 20 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 21 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 22 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 23 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 24 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 25 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 26 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 27 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 28 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 29 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 30 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 31 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 32 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 33 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 34 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 35 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 36 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 37 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 38 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 39 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 40 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 41 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 42 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 43 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 44 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 45 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 46 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 47 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 48 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 49 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 50 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 51 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 52 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 53 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 54 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 55 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 56 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 57 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 58 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 59 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 60 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 61 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 62 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 63 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 64 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 65 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 66 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 67 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 68 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 69 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 70 from index 0 to index 0
+Polygon 16-bit
+fixing poly material 71 from index 0 to index 0
+Polygon 16-bit
+Material 0
+int  state    = 0
+int  id       = 0
+char name[64] = 
+int  attr     = 576
+int r         = 255
+int g         = 255
+int b         = 255
+int alpha     = 255
+int color     = 576
+float ka      = 0.100000
+kd            = 1.000000
+ks            = 0.100000
+power         = 0.000000
+char texture_file =  D:\Source\T3dcodeII\wall01_256.bmp 
+
+processing poly 0
+processing poly 1
+processing poly 2
+processing poly 3
+processing poly 4
+processing poly 5
+processing poly 6
+processing poly 7
+processing poly 8
+processing poly 9
+processing poly 10
+processing poly 11
+processing poly 12
+processing poly 13
+processing poly 14
+processing poly 15
+processing poly 16
+processing poly 17
+processing poly 18
+processing poly 19
+processing poly 20
+processing poly 21
+processing poly 22
+processing poly 23
+processing poly 24
+processing poly 25
+processing poly 26
+processing poly 27
+processing poly 28
+processing poly 29
+processing poly 30
+processing poly 31
+processing poly 32
+processing poly 33
+processing poly 34
+processing poly 35
+processing poly 36
+processing poly 37
+processing poly 38
+processing poly 39
+processing poly 40
+processing poly 41
+processing poly 42
+processing poly 43
+processing poly 44
+processing poly 45
+processing poly 46
+processing poly 47
+processing poly 48
+processing poly 49
+processing poly 50
+processing poly 51
+processing poly 52
+processing poly 53
+processing poly 54
+processing poly 55
+processing poly 56
+processing poly 57
+processing poly 58
+processing poly 59
+processing poly 60
+processing poly 61
+processing poly 62
+processing poly 63
+processing poly 64
+processing poly 65
+processing poly 66
+processing poly 67
+processing poly 68
+processing poly 69
+processing poly 70
+processing poly 71
+Processing vertex: 0, attr: 5, contributors: 0
+Processing vertex: 1, attr: 5, contributors: 0
+Processing vertex: 2, attr: 5, contributors: 0
+Processing vertex: 3, attr: 5, contributors: 0
+Processing vertex: 4, attr: 5, contributors: 0
+Processing vertex: 5, attr: 5, contributors: 0
+Processing vertex: 6, attr: 5, contributors: 0
+Processing vertex: 7, attr: 5, contributors: 0
+Processing vertex: 8, attr: 5, contributors: 0
+Processing vertex: 9, attr: 5, contributors: 0
+Processing vertex: 10, attr: 5, contributors: 0
+Processing vertex: 11, attr: 5, contributors: 0
+Processing vertex: 12, attr: 5, contributors: 0
+Processing vertex: 13, attr: 5, contributors: 0
+Processing vertex: 14, attr: 5, contributors: 0
+Processing vertex: 15, attr: 5, contributors: 0
+Processing vertex: 16, attr: 5, contributors: 0
+Processing vertex: 17, attr: 5, contributors: 0
+Processing vertex: 18, attr: 5, contributors: 0
+Processing vertex: 19, attr: 5, contributors: 0
+Processing vertex: 20, attr: 5, contributors: 0
+Processing vertex: 21, attr: 5, contributors: 0
+Processing vertex: 22, attr: 5, contributors: 0
+Processing vertex: 23, attr: 5, contributors: 0
+Processing vertex: 24, attr: 5, contributors: 0
+Processing vertex: 25, attr: 5, contributors: 0
+Processing vertex: 26, attr: 5, contributors: 0
+Processing vertex: 27, attr: 5, contributors: 0
+Processing vertex: 28, attr: 5, contributors: 0
+Processing vertex: 29, attr: 5, contributors: 0
+Processing vertex: 30, attr: 5, contributors: 0
+Processing vertex: 31, attr: 5, contributors: 0
+Processing vertex: 32, attr: 5, contributors: 0
+Processing vertex: 33, attr: 5, contributors: 0
+Processing vertex: 34, attr: 5, contributors: 0
+Processing vertex: 35, attr: 5, contributors: 0
+Processing vertex: 36, attr: 5, contributors: 0
+Processing vertex: 37, attr: 5, contributors: 0
+Processing vertex: 38, attr: 5, contributors: 0
+Processing vertex: 39, attr: 5, contributors: 0Object Descriptor: tower 16 18
+
+Vertex 0 = -10.000000, 120.000000, -10.000000, 1.000000
+Vertex 1 = 10.000000, 120.000000, -10.000000, 1.000000
+Vertex 2 = 10.000000, 120.000000, 10.000000, 1.000000
+Vertex 3 = -10.000000, 120.000000, 10.000000, 1.000000
+Vertex 4 = -10.000000, 0.000000, -10.000000, 1.000000
+Vertex 5 = 10.000000, 0.000000, -10.000000, 1.000000
+Vertex 6 = 10.000000, 0.000000, 10.000000, 1.000000
+Vertex 7 = -10.000000, 0.000000, 10.000000, 1.000000
+Vertex 8 = -15.000000, 140.000000, 15.000000, 1.000000
+Vertex 9 = -15.000000, 140.000000, -15.000000, 1.000000
+Vertex 10 = 15.000000, 140.000000, -15.000000, 1.000000
+Vertex 11 = 15.000000, 140.000000, 15.000000, 1.000000
+Vertex 12 = -15.000000, 120.000000, -15.000000, 1.000000
+Vertex 13 = 15.000000, 120.000000, -15.000000, 1.000000
+Vertex 14 = 15.000000, 120.000000, 15.000000, 1.000000
+Vertex 15 = -15.000000, 120.000000, 15.000000, 1.000000
+Object average radius = 0.000000, max radius = 0.000000
+Polygon 0:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [5, 4, 0]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 1:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [1, 5, 0]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 2:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [6, 5, 1]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 3:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [2, 6, 1]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 4:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [7, 6, 2]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 5:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [3, 7, 2]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 6:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [7, 3, 0]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 7:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [4, 7, 0]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 8:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [13, 12, 9]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 9:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [10, 13, 9]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 10:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [14, 13, 10]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 11:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [11, 14, 10]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 12:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [15, 14, 11]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 13:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [8, 15, 11]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 14:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [12, 15, 8]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 15:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [9, 12, 8]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 16:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [13, 14, 15]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+Polygon 17:
+Surface Desc = 0x4010, num_verts = 3, vert_indices [12, 13, 15]
+1 sided.
+8-bit color index = 16
+Shade mode = gouraud
+processing poly 0
+Touches vertices: 5, 4, 0
+Poly touch array v[5] = 1,  v[4] = 1,  v[0] = 1
+processing poly 1
+Touches vertices: 1, 5, 0
+Poly touch array v[1] = 1,  v[5] = 2,  v[0] = 2
+processing poly 2
+Touches vertices: 6, 5, 1
+Poly touch array v[6] = 1,  v[5] = 3,  v[1] = 2
+processing poly 3
+Touches vertices: 2, 6, 1
+Poly touch array v[2] = 1,  v[6] = 2,  v[1] = 3
+processing poly 4
+Touches vertices: 7, 6, 2
+Poly touch array v[7] = 1,  v[6] = 3,  v[2] = 2
+processing poly 5
+Touches vertices: 3, 7, 2
+Poly touch array v[3] = 1,  v[7] = 2,  v[2] = 3
+processing poly 6
+Touches vertices: 7, 3, 0
+Poly touch array v[7] = 3,  v[3] = 2,  v[0] = 3
+processing poly 7
+Touches vertices: 4, 7, 0
+Poly touch array v[4] = 2,  v[7] = 4,  v[0] = 4
+processing poly 8
+Touches vertices: 13, 12, 9
+Poly touch array v[13] = 1,  v[12] = 1,  v[9] = 1
+processing poly 9
+Touches vertices: 10, 13, 9
+Poly touch array v[10] = 1,  v[13] = 2,  v[9] = 2
+processing poly 10
+Touches vertices: 14, 13, 10
+Poly touch array v[14] = 1,  v[13] = 3,  v[10] = 2
+processing poly 11
+Touches vertices: 11, 14, 10
+Poly touch array v[11] = 1,  v[14] = 2,  v[10] = 3
+processing poly 12
+Touches vertices: 15, 14, 11
+Poly touch array v[15] = 1,  v[14] = 3,  v[11] = 2
+processing poly 13
+Touches vertices: 8, 15, 11
+Poly touch array v[8] = 1,  v[15] = 2,  v[11] = 3
+processing poly 14
+Touches vertices: 12, 15, 8
+Poly touch array v[12] = 2,  v[15] = 3,  v[8] = 2
+processing poly 15
+Touches vertices: 9, 12, 8
+Poly touch array v[9] = 3,  v[12] = 3,  v[8] = 3
+processing poly 16
+Touches vertices: 13, 14, 15
+Poly touch array v[13] = 4,  v[14] = 4,  v[15] = 4
+processing poly 17
+Touches vertices: 12, 13, 15
+Poly touch array v[12] = 4,  v[13] = 5,  v[15] = 5
+Processing vertex: 0, attr: 3, contributors: 4
+Avg Vertex normal: [-0.707107, 0.000000, -0.707107]
+Processing vertex: 1, attr: 3, contributors: 3
+Avg Vertex normal: [0.894427, 0.000000, -0.447214]
+Processing vertex: 2, attr: 3, contributors: 3
+Avg Vertex normal: [0.447214, 0.000000, 0.894427]
+Processing vertex: 3, attr: 3, contributors: 2
+Avg Vertex normal: [-0.707107, 0.000000, 0.707107]
+Processing vertex: 4, attr: 3, contributors: 2
+Avg Vertex normal: [-0.707107, 0.000000, -0.707107]
+Processing vertex: 5, attr: 3, contributors: 3
+Avg Vertex normal: [0.447214, 0.000000, -0.894427]
+Processing vertex: 6, attr: 3, contributors: 3
+Avg Vertex normal: [0.894427, 0.000000, 0.447214]
+Processing vertex: 7, attr: 3, contributors: 4
+Avg Vertex normal: [-0.707107, 0.000000, 0.707107]
+Processing vertex: 8, attr: 3, contributors: 3
+Avg Vertex normal: [-0.894427, 0.000000, 0.447214]
+Processing vertex: 9, attr: 3, contributors: 3
+Avg Vertex normal: [-0.447214, 0.000000, -0.894427]
+Processing vertex: 10, attr: 3, contributors: 3
+Avg Vertex normal: [0.894427, 0.000000, -0.447214]
+Processing vertex: 11, attr: 3, contributors: 3
+Avg Vertex normal: [0.447214, 0.000000, 0.894427]
+Processing vertex: 12, attr: 3, contributors: 4
+Avg Vertex normal: [-0.742781, -0.557086, -0.371391]
+Processing vertex: 13, attr: 3, contributors: 5
+Avg Vertex normal: [0.267261, -0.801784, -0.534522]
+Processing vertex: 14, attr: 3, contributors: 4
+Avg Vertex normal: [0.742781, -0.557086, 0.371391]
+Processing vertex: 15, attr: 3, contributors: 5
+Avg Vertex normal: [-0.267261, -0.801784, 0.534522]Object Descriptor: marker 4 4
+
+Vertex 0 = 0.000000, 3.000000, 0.000000, 1.000000
+Vertex 1 = -3.000000, 0.000000, -3.000000, 1.000000
+Vertex 2 = 3.000000, 0.000000, -3.000000, 1.000000
+Vertex 3 = 0.000000, 0.000000, 3.000000, 1.000000
+Object average radius = 0.000000, max radius = 0.000000
+Polygon 0:
+Surface Desc = 0x2047, num_verts = 3, vert_indices [0, 2, 1]
+1 sided.
+8-bit color index = 71
+Shade mode = flat
+Polygon 1:
+Surface Desc = 0x2047, num_verts = 3, vert_indices [0, 3, 2]
+1 sided.
+8-bit color index = 71
+Shade mode = flat
+Polygon 2:
+Surface Desc = 0x2047, num_verts = 3, vert_indices [0, 1, 3]
+1 sided.
+8-bit color index = 71
+Shade mode = flat
+Polygon 3:
+Surface Desc = 0x2047, num_verts = 3, vert_indices [1, 2, 3]
+1 sided.
+8-bit color index = 71
+Shade mode = flat
+processing poly 0
+processing poly 1
+processing poly 2
+processing poly 3
+Processing vertex: 0, attr: 1, contributors: 0
+Processing vertex: 1, attr: 1, contributors: 0
+Processing vertex: 2, attr: 1, contributors: 0
+Processing vertex: 3, attr: 1, contributors: 0
