@@ -1,3 +1,4 @@
+C内联汇编只能支持32位
 ## 代码升级到新的编译标准
 #include <iostream.h>   ==> #include <iostream>
 
