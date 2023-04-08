@@ -22,3 +22,6 @@ Chap5代码不与t3dlib2.cpp、t3dlib3.cpp同时编译
 
 1. 添加dxguid.lib 
 2. 在文件开头#define INITGUID
+
+> 参考
+https://www.cnblogs.com/0odrifto0/p/3598431.html
